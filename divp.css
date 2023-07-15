@@ -1,0 +1,104 @@
+.dv1{
+background-color: black;
+height: 40px;
+width: 40px;
+float: left;
+margin-top: 20px;
+margin-left: 20px;
+
+}
+
+.dv2{
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.dv3{
+    background-color: pink;
+    height: 40px;
+    width: 40px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.dv-block1{
+    background-color: black;
+height: 80px;
+}
+.db-button{
+    background-color: black;
+    height: 40px;
+}
+.dbu{
+ float: left;
+ margin-left: 20px;
+ margin-top: 10px;
+
+}
+.dbm{
+    float: left;
+    margin-top: 10px;
+}
+
+.dbtv{
+    float: left;
+    margin-top: 10px;
+}
+
+.dv11{
+    background-color: bisque;
+height: 280px;
+width: 100%;
+}
+.db-cw{
+    color: white;
+}
+.db-rm{
+    color: white;
+}
+
+.db1{
+    background-color: brown;
+    float: left;
+    height: 280px;
+    width: 700px;
+}
+.db2{
+    background-color: purple;
+    float: right;
+    height: 280px;
+    width: 50%;
+}
+
+.dv-block2{
+    height: 280px;
+    background-color: black;
+}
+.cl{
+    color: blue;
+}
+.db11{
+    background-color: blue;
+    float: left;
+    height: 280px;
+    width: 50%;
+
+}
+.db22{
+    background-color: orange;
+    float: right;
+    height: 280px;
+    width: 50%;
+}
+.dv-block3{
+    height: 280px;
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
